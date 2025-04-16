@@ -1,6 +1,8 @@
 # badfetch
 A new fetch script written in Ruby, designed to be as bad as I could manage while still technically being functional!
 
+https://github.com/user-attachments/assets/1878b87a-1d09-4a2e-829f-980cdcfbec39
+
 ## Dependencies
 
 - `figlet`
